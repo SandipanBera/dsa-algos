@@ -1,0 +1,53 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Binarysearch",
+      "request": "launch",
+      "mainClass": "java_dsa.Binarysearch",
+      "projectName": "DSA_1aaca26d"
+    },
+    {
+      "type": "java",
+      "name": "merge_sort",
+      "request": "launch",
+      "mainClass": "java_dsa.merge_sort",
+      "projectName": "DSA_1aaca26d"
+    },
+    {
+      "type": "java",
+      "name": "StackimplemetationLinkedlist",
+      "request": "launch",
+      "mainClass": "java_dsa.StackimplemetationLinkedlist",
+      "projectName": "DSA_1aaca26d"
+    },
+    {
+      "type": "java",
+      "name": "Stackimplementation",
+      "request": "launch",
+      "mainClass": "java_dsa.Stackimplementation",
+      "projectName": "DSA_1aaca26d"
+    },
+    {
+      "type": "java",
+      "name": "LinkedlistImplementation",
+      "request": "launch",
+      "mainClass": "java_dsa.LinkedlistImplementation",
+      "projectName": "DSA_1aaca26d"
+    },
+    {
+      "type": "java",
+      "name": "LinearSearch",
+      "request": "launch",
+      "mainClass": "java_dsa.LinearSearch",
+      "projectName": "DSA_1aaca26d"
+    },
+    {
+      "type": "java",
+      "name": "peakMountain",
+      "request": "launch",
+      "mainClass": "java_dsa.peakMountain",
+      "projectName": "DSA_1aaca26d"
+    }
+  ]
+}
