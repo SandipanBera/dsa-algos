@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "recursion",
+      "request": "launch",
+      "mainClass": "java_dsa.recursion",
+      "projectName": "DSA_1aaca26d"
+    },
+    {
+      "type": "java",
       "name": "Binarysearch",
       "request": "launch",
       "mainClass": "java_dsa.Binarysearch",
