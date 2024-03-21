@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "maxProfit",
+      "request": "launch",
+      "mainClass": "java_dsa.maxProfit",
+      "projectName": "DSA_1aaca26d"
+    },
+    {
+      "type": "java",
       "name": "recursion",
       "request": "launch",
       "mainClass": "java_dsa.recursion",
