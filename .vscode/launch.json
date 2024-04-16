@@ -2,6 +2,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "regexpattern",
+      "request": "launch",
+      "mainClass": "java_dsa.regexpattern",
+      "projectName": "DSA_1aaca26d"
+    },
+    {
+      "type": "java",
+      "name": "split",
+      "request": "launch",
+      "mainClass": "java_dsa.split",
+      "projectName": "DSA_1aaca26d"
+    },
+    {
+      "type": "java",
       "name": "maxProfit",
       "request": "launch",
       "mainClass": "java_dsa.maxProfit",
