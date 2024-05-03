@@ -2,6 +2,111 @@
   "configurations": [
     {
       "type": "java",
+      "name": "max_length_substring",
+      "request": "launch",
+      "mainClass": "exam.max_length_substring",
+      "projectName": "DSA_1aaca26d"
+    },
+    {
+      "type": "java",
+      "name": "pattern1",
+      "request": "launch",
+      "mainClass": "exam.pattern1",
+      "projectName": "DSA_1aaca26d"
+    },
+    {
+      "type": "java",
+      "name": "automorphic_number",
+      "request": "launch",
+      "mainClass": "exam.automorphic_number",
+      "projectName": "DSA_1aaca26d"
+    },
+    {
+      "type": "java",
+      "name": "krishnamurthy_number",
+      "request": "launch",
+      "mainClass": "exam.krishnamurthy_number",
+      "projectName": "DSA_1aaca26d"
+    },
+    {
+      "type": "java",
+      "name": "sum_of_largest_smallest",
+      "request": "launch",
+      "mainClass": "exam.sum_of_largest_smallest",
+      "projectName": "DSA_1aaca26d"
+    },
+    {
+      "type": "java",
+      "name": "distinct_number",
+      "request": "launch",
+      "mainClass": "exam.distinct_number",
+      "projectName": "DSA_1aaca26d"
+    },
+    {
+      "type": "java",
+      "name": "max_occurance",
+      "request": "launch",
+      "mainClass": "exam.max_occurance",
+      "projectName": "DSA_1aaca26d"
+    },
+    {
+      "type": "java",
+      "name": "superior",
+      "request": "launch",
+      "mainClass": "exam.superior",
+      "projectName": "DSA_1aaca26d"
+    },
+    {
+      "type": "java",
+      "name": "even_odd",
+      "request": "launch",
+      "mainClass": "exam.even_odd",
+      "projectName": "DSA_1aaca26d"
+    },
+    {
+      "type": "java",
+      "name": "integral_range",
+      "request": "launch",
+      "mainClass": "exam.integral_range",
+      "projectName": "DSA_1aaca26d"
+    },
+    {
+      "type": "java",
+      "name": "letter_map",
+      "request": "launch",
+      "mainClass": "exam.letter_map",
+      "projectName": "DSA_1aaca26d"
+    },
+    {
+      "type": "java",
+      "name": "hcf",
+      "request": "launch",
+      "mainClass": "exam.hcf",
+      "projectName": "DSA_1aaca26d"
+    },
+    {
+      "type": "java",
+      "name": "mode",
+      "request": "launch",
+      "mainClass": "exam.mode",
+      "projectName": "DSA_1aaca26d"
+    },
+    {
+      "type": "java",
+      "name": "median",
+      "request": "launch",
+      "mainClass": "exam.median",
+      "projectName": "DSA_1aaca26d"
+    },
+    {
+      "type": "java",
+      "name": "standard_deviation",
+      "request": "launch",
+      "mainClass": "exam.standard_deviation",
+      "projectName": "DSA_1aaca26d"
+    },
+    {
+      "type": "java",
       "name": "regexpattern",
       "request": "launch",
       "mainClass": "java_dsa.regexpattern",

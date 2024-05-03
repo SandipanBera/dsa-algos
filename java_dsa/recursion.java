@@ -3,7 +3,7 @@ package java_dsa;
 public class recursion {
     public static void loop(int n) {
         if (n == 1) {
-            System.out.print(" " + n); // base case: when n is equal to 1, print the value of n and stop the recursion
+            System.out.print(n); // base case: when n is equal to 1, print the value of n and stop the recursion
             return;
         }
         loop(n - 1);
@@ -16,6 +16,7 @@ public class recursion {
         }
         int mid = (start+end)/2;
         sort(arr, start, mid);
+        sort(arr, mid+1, end);
     }
 
     public static void main(String[] args) {
